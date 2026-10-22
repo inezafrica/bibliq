@@ -1,0 +1,2545 @@
+{
+  "packId": 1,
+  "levels": [
+    {
+      "number": 1,
+      "world": 1,
+      "isBoss": false,
+      "starThresholds": [
+        7,
+        9,
+        10
+      ],
+      "questionIds": [
+        "q_0001",
+        "q_0002",
+        "q_0003",
+        "q_0004",
+        "q_0005",
+        "q_0006",
+        "q_0007",
+        "q_0008",
+        "q_0009",
+        "q_0010"
+      ]
+    },
+    {
+      "number": 2,
+      "world": 1,
+      "isBoss": false,
+      "starThresholds": [
+        7,
+        9,
+        10
+      ],
+      "questionIds": [
+        "q_0011",
+        "q_0012",
+        "q_0013",
+        "q_0014",
+        "q_0015",
+        "q_0016",
+        "q_0017",
+        "q_0018",
+        "q_0019",
+        "q_0020"
+      ]
+    },
+    {
+      "number": 3,
+      "world": 1,
+      "isBoss": true,
+      "starThresholds": [
+        7,
+        9,
+        10
+      ],
+      "questionIds": [
+        "q_0021",
+        "q_0022",
+        "q_0023",
+        "q_0024",
+        "q_0025",
+        "q_0026",
+        "q_0027",
+        "q_0028",
+        "q_0029",
+        "q_0030"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_0001",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "On which day did God create the sun, moon, and stars?",
+        "fr": "Quel jour Dieu a-t-il créé le soleil, la lune et les étoiles ?",
+        "es": "¿En qué día creó Dios el sol, la luna y las estrellas?"
+      },
+      "options": {
+        "en": [
+          "Day 2",
+          "Day 4",
+          "Day 5",
+          "Day 6"
+        ],
+        "fr": [
+          "Deuxième jour",
+          "Quatrième jour",
+          "Cinquième jour",
+          "Sixième jour"
+        ],
+        "es": [
+          "Segundo día",
+          "Cuarto día",
+          "Quinto día",
+          "Sexto día"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 1:14-19",
+        "fr": "Genèse 1:14-19",
+        "es": "Génesis 1:14-19"
+      }
+    },
+    {
+      "id": "q_0002",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "From what did God create the first man, Adam?",
+        "fr": "De quoi Dieu a-t-il créé le premier homme, Adam ?",
+        "es": "¿De qué creó Dios al primer hombre, Adán?"
+      },
+      "options": {
+        "en": [
+          "Water from the sea",
+          "A rib from Eve",
+          "The dust of the ground",
+          "Thin air"
+        ],
+        "fr": [
+          "L'eau de la mer",
+          "Une côte d'Ève",
+          "La poussière de la terre",
+          "Rien du tout"
+        ],
+        "es": [
+          "Agua del mar",
+          "Una costilla de Eva",
+          "El polvo de la tierra",
+          "De la nada"
+        ]
+      },
+      "correctIndex": 2,
+      "reference": {
+        "en": "Genesis 2:7",
+        "fr": "Genèse 2:7",
+        "es": "Génesis 2:7"
+      }
+    },
+    {
+      "id": "q_0003",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "What did God place at the east of the Garden of Eden to guard the way to the tree of life?",
+        "fr": "Qu'est-ce que Dieu a placé à l'orient du jardin d'Éden pour garder le chemin de l'arbre de vie ?",
+        "es": "¿Qué puso Dios al oriente del jardín del Edén para guardar el camino al árbol de la vida?"
+      },
+      "options": {
+        "en": [
+          "A tall wall with spikes",
+          "A cherubim with a flaming sword",
+          "A pack of lions",
+          "A deep river"
+        ],
+        "fr": [
+          "Un grand mur avec des piquets",
+          "Un chérubin avec une épée flamboyante",
+          "Une meute de lions",
+          "Une rivière profonde"
+        ],
+        "es": [
+          "Un muro alto con púas",
+          "Un querubín con una espada encendida",
+          "Una manada de leones",
+          "Un río profundo"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 3:24",
+        "fr": "Genèse 3:24",
+        "es": "Génesis 3:24"
+      }
+    },
+    {
+      "id": "q_0004",
+      "type": "IMAGE",
+      "difficulty": 1,
+      "text": {
+        "en": "What is God creating in this picture?",
+        "fr": "Que Dieu crée-t-il sur cette image ?",
+        "es": "¿Qué está creando Dios en esta imagen?"
+      },
+      "options": {
+        "en": [
+          "The light, separating day from night",
+          "The animals of the earth",
+          "The first man",
+          "The sky and clouds"
+        ],
+        "fr": [
+          "La lumière, séparant le jour de la nuit",
+          "Les animaux de la terre",
+          "Le premier homme",
+          "Le ciel et les nuages"
+        ],
+        "es": [
+          "La luz, separando el día de la noche",
+          "Los animales de la tierra",
+          "El primer hombre",
+          "El cielo y las nubes"
+        ]
+      },
+      "correctIndex": 0,
+      "imageUrl": "images/q_0004.webp",
+      "reference": {
+        "en": "Genesis 1:3-5",
+        "fr": "Genèse 1:3-5",
+        "es": "Génesis 1:3-5"
+      }
+    },
+    {
+      "id": "q_0005",
+      "type": "TRUE_FALSE",
+      "difficulty": 1,
+      "text": {
+        "en": "God created the great sea creatures and every living thing on Day 5.",
+        "fr": "Dieu a créé les grands poissons et tous les êtres vivants qui se meuvent dans l'eau le cinquième jour.",
+        "es": "Dios creó los grandes animales marinos y todo ser viviente que se mueve en el agua el quinto día."
+      },
+      "options": {
+        "en": [
+          "True",
+          "False"
+        ],
+        "fr": [
+          "Vrai",
+          "Faux"
+        ],
+        "es": [
+          "Verdadero",
+          "Falso"
+        ]
+      },
+      "correctIndex": 0,
+      "reference": {
+        "en": "Genesis 1:20-23",
+        "fr": "Genèse 1:20-23",
+        "es": "Génesis 1:20-23"
+      }
+    },
+    {
+      "id": "q_0006",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "What was the serpent described as more than any other beast of the field?",
+        "fr": "Comment était décrit le serpent par rapport à toutes les bêtes des champs ?",
+        "es": "¿Cómo se describía a la serpiente en comparación con todos los animales del campo?"
+      },
+      "options": {
+        "en": [
+          "Stronger",
+          "Faster",
+          "More crafty / subtle",
+          "Larger"
+        ],
+        "fr": [
+          "Plus fort",
+          "Plus rapide",
+          "Plus rusé",
+          "Plus grand"
+        ],
+        "es": [
+          "Más fuerte",
+          "Más rápida",
+          "Más astuta",
+          "Más grande"
+        ]
+      },
+      "correctIndex": 2,
+      "reference": {
+        "en": "Genesis 3:1",
+        "fr": "Genèse 3:1",
+        "es": "Génesis 3:1"
+      }
+    },
+    {
+      "id": "q_0007",
+      "type": "TRUE_FALSE",
+      "difficulty": 1,
+      "text": {
+        "en": "Eve was created from a bone taken from Adam's foot.",
+        "fr": "Ève a été créée à partir d'un os pris dans le pied d'Adam.",
+        "es": "Eva fue creada de un hueso tomado del pie de Adán."
+      },
+      "options": {
+        "en": [
+          "True",
+          "False"
+        ],
+        "fr": [
+          "Vrai",
+          "Faux"
+        ],
+        "es": [
+          "Verdadero",
+          "Falso"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 2:21-22",
+        "fr": "Genèse 2:21-22",
+        "es": "Génesis 2:21-22"
+      }
+    },
+    {
+      "id": "q_0008",
+      "type": "IMAGE",
+      "difficulty": 1,
+      "text": {
+        "en": "Who is the woman in the garden, being given to the man by God?",
+        "fr": "Qui est cette femme dans le jardin, présentée par Dieu à l'homme ?",
+        "es": "¿Quién es la mujer en el jardín, que Dios presenta al hombre?"
+      },
+      "options": {
+        "en": [
+          "Sarah",
+          "Rebekah",
+          "Eve",
+          "Rachel"
+        ],
+        "fr": [
+          "Sara",
+          "Rébecca",
+          "Ève",
+          "Rachel"
+        ],
+        "es": [
+          "Sara",
+          "Rebeca",
+          "Eva",
+          "Raquel"
+        ]
+      },
+      "correctIndex": 2,
+      "imageUrl": "images/q_0008.webp",
+      "reference": {
+        "en": "Genesis 2:22-25",
+        "fr": "Genèse 2:22-25",
+        "es": "Génesis 2:22-25"
+      }
+    },
+    {
+      "id": "q_0009",
+      "type": "TRUE_FALSE",
+      "difficulty": 1,
+      "text": {
+        "en": "On the seventh day, God finished His work and rested.",
+        "fr": "Le septième jour, Dieu acheva son œuvre et se reposa.",
+        "es": "En el séptimo día, Dios terminó su obra y descansó."
+      },
+      "options": {
+        "en": [
+          "True",
+          "False"
+        ],
+        "fr": [
+          "Vrai",
+          "Faux"
+        ],
+        "es": [
+          "Verdadero",
+          "Falso"
+        ]
+      },
+      "correctIndex": 0,
+      "reference": {
+        "en": "Genesis 2:1-3",
+        "fr": "Genèse 2:1-3",
+        "es": "Génesis 2:1-3"
+      }
+    },
+    {
+      "id": "q_0010",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "After they ate the forbidden fruit, what did Adam and Eve realize?",
+        "fr": "Après avoir mangé le fruit défendu, quoi ont-ils réalisé pour la première fois, Adam et Ève ?",
+        "es": "Después de comer el fruto prohibido, ¿de qué se dieron cuenta Adán y Eva?"
+      },
+      "options": {
+        "en": [
+          "That they were hungry",
+          "That they were naked",
+          "That the garden was beautiful",
+          "That they needed shelter"
+        ],
+        "fr": [
+          "Qu'ils avaient faim",
+          "Qu'ils étaient nus",
+          "Que le jardin était magnifique",
+          "Qu'ils avaient besoin d'un abri"
+        ],
+        "es": [
+          "Que tenían hambre",
+          "Que estaban desnudos",
+          "Que el jardín era hermoso",
+          "Que necesitaban refugio"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 3:7",
+        "fr": "Genèse 3:7",
+        "es": "Génesis 3:7"
+      }
+    },
+    {
+      "id": "q_0011",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "What offering did Cain bring to the Lord?",
+        "fr": "Quelle offrande Caïn a-t-il apportée au Seigneur ?",
+        "es": "¿Qué ofrenda le trajo Caín al Señor?"
+      },
+      "options": {
+        "en": [
+          "Firstborn of his flock",
+          "Fruit of the ground / crops",
+          "Gold and silver",
+          "A sweet-smelling incense"
+        ],
+        "fr": [
+          "Les premiers-nés de son troupeau",
+          "Les fruits du sol",
+          "De l'or et de l'argent",
+          "Un encens parfumé"
+        ],
+        "es": [
+          "Los primogénitos de su rebaño",
+          "El fruto de la tierra",
+          "Oro y plata",
+          "Un incienso aromático"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 4:3",
+        "fr": "Genèse 4:3",
+        "es": "Génesis 4:3"
+      }
+    },
+    {
+      "id": "q_0012",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "How many people were aboard Noah's Ark?",
+        "fr": "Combien de personnes sont montées dans l'arche de Noé ?",
+        "es": "¿Cuántas personas iban a bordo del arca de Noé?"
+      },
+      "options": {
+        "en": [
+          "4 people",
+          "6 people",
+          "8 people",
+          "12 people"
+        ],
+        "fr": [
+          "4 personnes",
+          "6 personnes",
+          "8 personnes",
+          "12 personnes"
+        ],
+        "es": [
+          "4 personas",
+          "6 personas",
+          "8 personas",
+          "12 personas"
+        ]
+      },
+      "correctIndex": 2,
+      "reference": {
+        "en": "Genesis 7:13",
+        "fr": "Genèse 7:13",
+        "es": "Génesis 7:13"
+      }
+    },
+    {
+      "id": "q_0013",
+      "type": "TRUE_FALSE",
+      "difficulty": 1,
+      "text": {
+        "en": "After killing Abel, Cain was told by God that he would be a restless wanderer on the earth.",
+        "fr": "Après avoir tué Abel, Dieu a dit à Caïn qu'il sera un fugitif errant sur la terre.",
+        "es": "Después de matar a Abel, Dios le dijo a Caín que sería un fugitivo errante en la tierra."
+      },
+      "options": {
+        "en": [
+          "True",
+          "False"
+        ],
+        "fr": [
+          "Vrai",
+          "Faux"
+        ],
+        "es": [
+          "Verdadero",
+          "Falso"
+        ]
+      },
+      "correctIndex": 0,
+      "reference": {
+        "en": "Genesis 4:12",
+        "fr": "Genèse 4:12",
+        "es": "Génesis 4:12"
+      }
+    },
+    {
+      "id": "q_0014",
+      "type": "IMAGE",
+      "difficulty": 1,
+      "text": {
+        "en": "What is happening in this scene with two brothers at an altar?",
+        "fr": "Que se passe-t-il dans cette scène avec deux frères devant un autel ?",
+        "es": "¿Qué está sucediendo en esta escena con dos hermanos ante un altar?"
+      },
+      "options": {
+        "en": [
+          "They are building the ark together",
+          "Cain and Abel are presenting their offerings to God",
+          "They are planting a vineyard",
+          "They are naming the animals"
+        ],
+        "fr": [
+          "Ils construisent l'arche ensemble",
+          "Caïn et Abel présentent leurs offrandes à Dieu",
+          "Ils plantent une vigne",
+          "Ils donnent des noms aux animaux"
+        ],
+        "es": [
+          "Están construyendo el arca juntos",
+          "Caín y Abel presentan sus ofrendas a Dios",
+          "Están plantando una viña",
+          "Están poniendo nombre a los animales"
+        ]
+      },
+      "correctIndex": 1,
+      "imageUrl": "images/q_0014.webp",
+      "reference": {
+        "en": "Genesis 4:3-5",
+        "fr": "Genèse 4:3-5",
+        "es": "Génesis 4:3-5"
+      }
+    },
+    {
+      "id": "q_0015",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "How many days and nights did the flood waters come upon the earth?",
+        "fr": "Pendant combien de jours et de nuits les eaux du déluge ont-elles couvert la terre ?",
+        "es": "¿Durante cuántos días y noches cayeron las aguas del diluvio sobre la tierra?"
+      },
+      "options": {
+        "en": [
+          "40 days and 40 nights",
+          "7 days and 7 nights",
+          "100 days and 100 nights",
+          "3 days and 3 nights"
+        ],
+        "fr": [
+          "40 jours et 40 nuits",
+          "7 jours et 7 nuits",
+          "100 jours et 100 nuits",
+          "3 jours et 3 nuits"
+        ],
+        "es": [
+          "40 días y 40 noches",
+          "7 días y 7 noches",
+          "100 días y 100 noches",
+          "3 días y 3 noches"
+        ]
+      },
+      "correctIndex": 0,
+      "reference": {
+        "en": "Genesis 7:12",
+        "fr": "Genèse 7:12",
+        "es": "Génesis 7:12"
+      }
+    },
+    {
+      "id": "q_0016",
+      "type": "TRUE_FALSE",
+      "difficulty": 1,
+      "text": {
+        "en": "Noah sent out a raven first, then a dove, to see if the waters had receded.",
+        "fr": "Noé a d'abord envoyé un corbeau, puis une colombe, pour voir si les eaux avaient baissé.",
+        "es": "Noé envió primero un cuervo, y luego una paloma, para ver si las aguas habían bajado."
+      },
+      "options": {
+        "en": [
+          "True",
+          "False"
+        ],
+        "fr": [
+          "Vrai",
+          "Faux"
+        ],
+        "es": [
+          "Verdadero",
+          "Falso"
+        ]
+      },
+      "correctIndex": 0,
+      "reference": {
+        "en": "Genesis 8:7-11",
+        "fr": "Genèse 8:7-11",
+        "es": "Génesis 8:7-11"
+      }
+    },
+    {
+      "id": "q_0017",
+      "type": "IMAGE",
+      "difficulty": 1,
+      "text": {
+        "en": "What is the large wooden boat in this illustration, with pairs of animals boarding it?",
+        "fr": "Quel est ce grand bateau en bois sur l'image, sur lequel montent des couples d'animaux ?",
+        "es": "¿Qué es este gran barco de madera en la ilustración, en el que suben parejas de animales?"
+      },
+      "options": {
+        "en": [
+          "Jonah's ship",
+          "Noah's Ark",
+          "The Egyptian royal barge",
+          "A Greek warship"
+        ],
+        "fr": [
+          "Le navire de Jonas",
+          "L'arche de Noé",
+          "La barque royale égyptienne",
+          "Un navire de guerre grec"
+        ],
+        "es": [
+          "El barco de Jonás",
+          "El arca de Noé",
+          "La barca real egipcia",
+          "Un barco de guerra griego"
+        ]
+      },
+      "correctIndex": 1,
+      "imageUrl": "images/q_0017.webp",
+      "reference": {
+        "en": "Genesis 6:14-15; 7:8-9",
+        "fr": "Genèse 6:14-15 ; 7:8-9",
+        "es": "Génesis 6:14-15; 7:8-9"
+      }
+    },
+    {
+      "id": "q_0018",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "Of what material was Noah commanded to build the ark?",
+        "fr": "Avec quel matériau Dieu a-t-il ordonné à Noé de construire l'arche ?",
+        "es": "¿Con qué material se le ordenó a Noé construir el arca?"
+      },
+      "options": {
+        "en": [
+          "Oak wood",
+          "Gopher wood / cypress wood",
+          "Reeds and mud",
+          "Stone blocks"
+        ],
+        "fr": [
+          "Du bois de chêne",
+          "Du bois de gopher (cyprès)",
+          "Des roseaux et de la boue",
+          "Des blocs de pierre"
+        ],
+        "es": [
+          "Madera de roble",
+          "Madera de gofer (ciprés)",
+          "Cañas y barro",
+          "Bloques de piedra"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 6:14",
+        "fr": "Genèse 6:14",
+        "es": "Génesis 6:14"
+      }
+    },
+    {
+      "id": "q_0019",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "What did the dove bring back in its mouth the second time it was sent out?",
+        "fr": "Qu'est-ce que la colombe a rapporté dans son bec la deuxième fois qu'elle a été envoyée ?",
+        "es": "¿Qué trajo la paloma en su pico la segunda vez que fue enviada?"
+      },
+      "options": {
+        "en": [
+          "A small fish",
+          "A freshly plucked olive leaf",
+          "A handful of grass",
+          "A grape cluster"
+        ],
+        "fr": [
+          "Un petit poisson",
+          "Une feuille d'olivier arrachée",
+          "Une poignée d'herbe",
+          "Une grappe de raisin"
+        ],
+        "es": [
+          "Un pequeño pez",
+          "Una hoja de olivo recién arrancada",
+          "Un puñado de hierba",
+          "Un racimo de uvas"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 8:11",
+        "fr": "Genèse 8:11",
+        "es": "Génesis 8:11"
+      }
+    },
+    {
+      "id": "q_0020",
+      "type": "TRUE_FALSE",
+      "difficulty": 1,
+      "text": {
+        "en": "Noah was 120 years old when he entered the ark.",
+        "fr": "Noé avait 120 ans quand il est entré dans l'arche.",
+        "es": "Noé tenía 120 años cuando entró en el arca."
+      },
+      "options": {
+        "en": [
+          "True",
+          "False"
+        ],
+        "fr": [
+          "Vrai",
+          "Faux"
+        ],
+        "es": [
+          "Verdadero",
+          "Falso"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 7:6",
+        "fr": "Genèse 7:6",
+        "es": "Génesis 7:6"
+      }
+    },
+    {
+      "id": "q_0021",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "What sign did God give as a covenant / promise never to flood the whole earth again?",
+        "fr": "Quel signe Dieu a-t-il donné comme alliance, pour promettre de ne plus jamais déluge toute la terre ?",
+        "es": "¿Qué señal dio Dios como pacto, prometiendo no volver a inundar toda la tierra?"
+      },
+      "options": {
+        "en": [
+          "The sun rising every morning",
+          "The rainbow in the clouds",
+          "A shooting star",
+          "The call of a dove"
+        ],
+        "fr": [
+          "Le soleil qui se lève chaque matin",
+          "L'arc-en-ciel dans les nuages",
+          "Une étoile filante",
+          "Le chant d'une colombe"
+        ],
+        "es": [
+          "El sol que sale cada mañana",
+          "El arco iris en las nubes",
+          "Una estrella fugaz",
+          "El canto de una paloma"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 9:11-16",
+        "fr": "Genèse 9:11-16",
+        "es": "Génesis 9:11-16"
+      }
+    },
+    {
+      "id": "q_0022",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "Why did the people build the Tower of Babel?",
+        "fr": "Pourquoi les gens ont-ils construit la Tour de Babel ?",
+        "es": "¿Por qué construyó la gente la Torre de Babel?"
+      },
+      "options": {
+        "en": [
+          "To worship God more closely",
+          "To store grain for a famine",
+          "To make a name for themselves and not be scattered",
+          "To escape from wild animals"
+        ],
+        "fr": [
+          "Pour adorer Dieu de plus près",
+          "Pour stocker du grain contre la famine",
+          "Pour se faire un nom et ne pas être dispersés",
+          "Pour échapper aux bêtes sauvages"
+        ],
+        "es": [
+          "Para adorar a Dios más de cerca",
+          "Para almacenar grano contra el hambre",
+          "Para hacerse un nombre y no ser dispersados",
+          "Para escapar de animales salvajes"
+        ]
+      },
+      "correctIndex": 2,
+      "reference": {
+        "en": "Genesis 11:4",
+        "fr": "Genèse 11:4",
+        "es": "Génesis 11:4"
+      }
+    },
+    {
+      "id": "q_0023",
+      "type": "TRUE_FALSE",
+      "difficulty": 1,
+      "text": {
+        "en": "Shem, Ham, and Japheth were the three sons of Noah.",
+        "fr": "Sem, Cham et Japhet étaient les trois fils de Noé.",
+        "es": "Sem, Cam y Jafet fueron los tres hijos de Noé."
+      },
+      "options": {
+        "en": [
+          "True",
+          "False"
+        ],
+        "fr": [
+          "Vrai",
+          "Faux"
+        ],
+        "es": [
+          "Verdadero",
+          "Falso"
+        ]
+      },
+      "correctIndex": 0,
+      "reference": {
+        "en": "Genesis 6:10",
+        "fr": "Genèse 6:10",
+        "es": "Génesis 6:10"
+      }
+    },
+    {
+      "id": "q_0024",
+      "type": "IMAGE",
+      "difficulty": 1,
+      "text": {
+        "en": "What does this colorful arch in the sky represent, according to Genesis?",
+        "fr": "Que représente cet arc coloré dans le ciel, selon Genèse ?",
+        "es": "¿Qué representa este arco de colores en el cielo, según Génesis?"
+      },
+      "options": {
+        "en": [
+          "The entrance to Heaven",
+          "God's covenant never to flood the whole earth again",
+          "The pathway to the Garden of Eden",
+          "A ladder to the stars"
+        ],
+        "fr": [
+          "L'entrée du Ciel",
+          "L'alliance de Dieu de ne plus jamais déluge la terre entière",
+          "Le chemin vers le jardin d'Éden",
+          "Une échelle vers les étoiles"
+        ],
+        "es": [
+          "La entrada al Cielo",
+          "El pacto de Dios de no volver a inundar toda la tierra",
+          "El camino hacia el jardín del Edén",
+          "Una escalera hacia las estrellas"
+        ]
+      },
+      "correctIndex": 1,
+      "imageUrl": "images/q_0024.webp",
+      "reference": {
+        "en": "Genesis 9:12-17",
+        "fr": "Genèse 9:12-17",
+        "es": "Génesis 9:12-17"
+      }
+    },
+    {
+      "id": "q_0025",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "What did God do so the people could not understand each other at Babel?",
+        "fr": "Qu'est-ce que Dieu a fait pour que les gens ne se comprennent plus à Babel ?",
+        "es": "¿Qué hizo Dios para que la gente no pudiera entenderse en Babel?"
+      },
+      "options": {
+        "en": [
+          "He made them all deaf",
+          "He confused their languages",
+          "He struck them with blindness",
+          "He made them leave secretly"
+        ],
+        "fr": [
+          "Il les a tous rendus sourds",
+          "Il a confondu leurs langues",
+          "Il les a frappés de cécité",
+          "Il les a fait partir en secret"
+        ],
+        "es": [
+          "Los dejó sordos a todos",
+          "Confundió sus lenguas",
+          "Los hirió con ceguera",
+          "Los hizo partir en secreto"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 11:7",
+        "fr": "Genèse 11:7",
+        "es": "Génesis 11:7"
+      }
+    },
+    {
+      "id": "q_0026",
+      "type": "TRUE_FALSE",
+      "difficulty": 1,
+      "text": {
+        "en": "After the flood, Noah planted a vineyard and drank of the wine, becoming drunk.",
+        "fr": "Après le déluge, Noé a planté une vigne, a bu du vin et s'est enivré.",
+        "es": "Después del diluvio, Noé plantó una viña, bebió del vino y se embriagó."
+      },
+      "options": {
+        "en": [
+          "True",
+          "False"
+        ],
+        "fr": [
+          "Vrai",
+          "Faux"
+        ],
+        "es": [
+          "Verdadero",
+          "Falso"
+        ]
+      },
+      "correctIndex": 0,
+      "reference": {
+        "en": "Genesis 9:20-21",
+        "fr": "Genèse 9:20-21",
+        "es": "Génesis 9:20-21"
+      }
+    },
+    {
+      "id": "q_0027",
+      "type": "IMAGE",
+      "difficulty": 1,
+      "text": {
+        "en": "What is the name of this tall structure built by the united people in the plain of Shinar?",
+        "fr": "Quel est le nom de cette grande tour construite par un peuple uni dans la plaine de Shinear ?",
+        "es": "¿Cuál es el nombre de esta gran torre construida por un pueblo unido en la llanura de Sinar?"
+      },
+      "options": {
+        "en": [
+          "The Tower of Babel",
+          "The Pyramid of Giza",
+          "Noah's Tower",
+          "The Jerusalem Temple"
+        ],
+        "fr": [
+          "La Tour de Babel",
+          "La Pyramide de Gizeh",
+          "La Tour de Noé",
+          "Le Temple de Jérusalem"
+        ],
+        "es": [
+          "La Torre de Babel",
+          "La Pirámide de Guiza",
+          "La Torre de Noé",
+          "El Templo de Jerusalén"
+        ]
+      },
+      "correctIndex": 0,
+      "imageUrl": "images/q_0027.webp",
+      "reference": {
+        "en": "Genesis 11:1-9",
+        "fr": "Genèse 11:1-9",
+        "es": "Génesis 11:1-9"
+      }
+    },
+    {
+      "id": "q_0028",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "How old was Noah when the flood ended and he left the ark?",
+        "fr": "Quel âge avait Noé quand le déluge a pris fin et qu'il est sorti de l'arche ?",
+        "es": "¿Cuántos años tenía Noé cuando terminó el diluvio y salió del arca?"
+      },
+      "options": {
+        "en": [
+          "600 years old",
+          "601 years old",
+          "700 years old",
+          "950 years old"
+        ],
+        "fr": [
+          "600 ans",
+          "601 ans",
+          "700 ans",
+          "950 ans"
+        ],
+        "es": [
+          "600 años",
+          "601 años",
+          "700 años",
+          "950 años"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 8:13",
+        "fr": "Genèse 8:13",
+        "es": "Génesis 8:13"
+      }
+    },
+    {
+      "id": "q_0029",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "After leaving the ark, what was the first thing Noah did?",
+        "fr": "Après être sorti de l'arche, quelle est la première chose que Noé a faite ?",
+        "es": "Después de salir del arca, ¿cuál fue lo primero que hizo Noé?"
+      },
+      "options": {
+        "en": [
+          "He planted a grape vine",
+          "He built an altar and offered burnt offerings to God",
+          "He built a house for his family",
+          "He counted all the animals"
+        ],
+        "fr": [
+          "Il a planté une vigne",
+          "Il a construit un autel et offert des holocaustes à Dieu",
+          "Il a construit une maison pour sa famille",
+          "Il a compté tous les animaux"
+        ],
+        "es": [
+          "Plantó una viña",
+          "Construyó un altar y ofreció holocaustos a Dios",
+          "Construyó una casa para su familia",
+          "Contó todos los animales"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 8:20",
+        "fr": "Genèse 8:20",
+        "es": "Génesis 8:20"
+      }
+    },
+    {
+      "id": "q_0030",
+      "type": "TRUE_FALSE",
+      "difficulty": 1,
+      "text": {
+        "en": "At the Tower of Babel, the people agreed to build a tower whose top would reach to the heavens.",
+        "fr": "À la Tour de Babel, les gens se sont mis d'accord pour construire une tour dont le sommet atteindrait les cieux.",
+        "es": "En la Torre de Babel, la gente acordó construir una torre cuya cima llegara hasta los cielos."
+      },
+      "options": {
+        "en": [
+          "True",
+          "False"
+        ],
+        "fr": [
+          "Vrai",
+          "Faux"
+        ],
+        "es": [
+          "Verdadero",
+          "Falso"
+        ]
+      },
+      "correctIndex": 0,
+      "reference": {
+        "en": "Genesis 11:4",
+        "fr": "Genèse 11:4",
+        "es": "Génesis 11:4"
+      }
+    },
+    {
+      "id": "q_0031",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "What was the first thing God created?",
+        "fr": "Quelle est la première chose que Dieu a créée ?",
+        "es": "¿Qué fue lo primero que creó Dios?"
+      },
+      "options": {
+        "en": [
+          "The light",
+          "The sky",
+          "The trees",
+          "The animals"
+        ],
+        "fr": [
+          "La lumière",
+          "Le ciel",
+          "Les arbres",
+          "Les animaux"
+        ],
+        "es": [
+          "La luz",
+          "El cielo",
+          "Los árboles",
+          "Los animales"
+        ]
+      },
+      "correctIndex": 0,
+      "reference": {
+        "en": "Genesis 1:3",
+        "fr": "Genèse 1:3",
+        "es": "Génesis 1:3"
+      }
+    },
+    {
+      "id": "q_0032",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "On the second day, what did God separate from the waters?",
+        "fr": "Le deuxième jour, qu'est-ce que Dieu a séparé des eaux ?",
+        "es": "El segundo día, ¿qué separó Dios de las aguas?"
+      },
+      "options": {
+        "en": [
+          "The land",
+          "The expanse (sky)",
+          "The stars",
+          "The fish"
+        ],
+        "fr": [
+          "La terre",
+          "L'étendue (le ciel)",
+          "Les étoiles",
+          "Les poissons"
+        ],
+        "es": [
+          "La tierra",
+          "La expansión (el cielo)",
+          "Las estrellas",
+          "Los peces"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 1:6-8",
+        "fr": "Genèse 1:6-8",
+        "es": "Génesis 1:6-8"
+      }
+    },
+    {
+      "id": "q_0033",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "What did God create on the third day?",
+        "fr": "Qu'est-ce que Dieu a créé le troisième jour ?",
+        "es": "¿Qué creó Dios el tercer día?"
+      },
+      "options": {
+        "en": [
+          "The birds of the air",
+          "Dry land and vegetation",
+          "The moon and stars",
+          "Man and woman"
+        ],
+        "fr": [
+          "Les oiseaux du ciel",
+          "La terre sèche et la végétation",
+          "La lune et les étoiles",
+          "L'homme et la femme"
+        ],
+        "es": [
+          "Las aves del cielo",
+          "La tierra seca y la vegetación",
+          "La luna y las estrellas",
+          "El hombre y la mujer"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 1:9-13",
+        "fr": "Genèse 1:9-13",
+        "es": "Génesis 1:9-13"
+      }
+    },
+    {
+      "id": "q_0034",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "On which day were the sun, moon and stars created?",
+        "fr": "Quel jour ont été créés le soleil, la lune et les étoiles ?",
+        "es": "¿En qué día fueron creados el sol, la luna y las estrellas?"
+      },
+      "options": {
+        "en": [
+          "Day 2",
+          "Day 3",
+          "Day 4",
+          "Day 6"
+        ],
+        "fr": [
+          "Deuxième jour",
+          "Troisième jour",
+          "Quatrième jour",
+          "Sixième jour"
+        ],
+        "es": [
+          "Segundo día",
+          "Tercer día",
+          "Cuarto día",
+          "Sexto día"
+        ]
+      },
+      "correctIndex": 2,
+      "reference": {
+        "en": "Genesis 1:14-19",
+        "fr": "Genèse 1:14-19",
+        "es": "Génesis 1:14-19"
+      }
+    },
+    {
+      "id": "q_0035",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "What did God create on the fifth day?",
+        "fr": "Qu'est-ce que Dieu a créé le cinquième jour ?",
+        "es": "¿Qué creó Dios el quinto día?"
+      },
+      "options": {
+        "en": [
+          "Trees and plants",
+          "Fish and birds",
+          "Livestock and wild animals",
+          "The stars"
+        ],
+        "fr": [
+          "Les arbres et les plantes",
+          "Les poissons et les oiseaux",
+          "Le bétail et les animaux sauvages",
+          "Les étoiles"
+        ],
+        "es": [
+          "Los árboles y las plantas",
+          "Los peces y las aves",
+          "El ganado y los animales salvajes",
+          "Las estrellas"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 1:20-23",
+        "fr": "Genèse 1:20-23",
+        "es": "Génesis 1:20-23"
+      }
+    },
+    {
+      "id": "q_0036",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "What did God create on the sixth day?",
+        "fr": "Qu'est-ce que Dieu a créé le sixième jour ?",
+        "es": "¿Qué creó Dios el sexto día?"
+      },
+      "options": {
+        "en": [
+          "The fish of the sea",
+          "The birds of the air",
+          "Land animals and man",
+          "The sun"
+        ],
+        "fr": [
+          "Les poissons de la mer",
+          "Les oiseaux du ciel",
+          "Les animaux terrestres et l'homme",
+          "Le soleil"
+        ],
+        "es": [
+          "Los peces del mar",
+          "Las aves del cielo",
+          "Los animales terrestres y el hombre",
+          "El sol"
+        ]
+      },
+      "correctIndex": 2,
+      "reference": {
+        "en": "Genesis 1:24-31",
+        "fr": "Genèse 1:24-31",
+        "es": "Génesis 1:24-31"
+      }
+    },
+    {
+      "id": "q_0037",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "In whose image was man created?",
+        "fr": "À l'image de qui l'homme a-t-il été créé ?",
+        "es": "¿A imagen de quién fue creado el hombre?"
+      },
+      "options": {
+        "en": [
+          "In the image of the angels",
+          "In God's own image",
+          "In the image of the animals",
+          "In the image of the earth"
+        ],
+        "fr": [
+          "À l'image des anges",
+          "À l'image de Dieu",
+          "À l'image des animaux",
+          "À l'image de la terre"
+        ],
+        "es": [
+          "A imagen de los ángeles",
+          "A imagen de Dios",
+          "A imagen de los animales",
+          "A imagen de la tierra"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 1:27",
+        "fr": "Genèse 1:27",
+        "es": "Génesis 1:27"
+      }
+    },
+    {
+      "id": "q_0038",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "What blessing did God give the first man and woman?",
+        "fr": "Quelle bénédiction Dieu a-t-il donnée au premier homme et à la première femme ?",
+        "es": "¿Qué bendición dio Dios al primer hombre y a la primera mujer?"
+      },
+      "options": {
+        "en": [
+          "Be fruitful, multiply and fill the earth",
+          "Live forever in the garden",
+          "Rule over the angels",
+          "Eat from every tree"
+        ],
+        "fr": [
+          "Soyez féconds, multipliez et remplissez la terre",
+          "Vivez pour toujours dans le jardin",
+          "Régnez sur les anges",
+          "Mangez de tous les arbres"
+        ],
+        "es": [
+          "Sed fecundos, multiplicaos y llenad la tierra",
+          "Vivid para siempre en el jardín",
+          "Gobernad a los ángeles",
+          "Comed de todos los árboles"
+        ]
+      },
+      "correctIndex": 0,
+      "reference": {
+        "en": "Genesis 1:28",
+        "fr": "Genèse 1:28",
+        "es": "Génesis 1:28"
+      }
+    },
+    {
+      "id": "q_0039",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "How did God describe everything He had made at the end of creation?",
+        "fr": "Comment Dieu a-t-il décrit tout ce qu'Il avait créé à la fin ?",
+        "es": "¿Cómo describió Dios todo lo que había hecho al final de la creación?"
+      },
+      "options": {
+        "en": [
+          "It was incomplete",
+          "It was very good",
+          "It was beautiful but flawed",
+          "It was too big"
+        ],
+        "fr": [
+          "C'était incomplet",
+          "C'était très bon",
+          "C'était beau mais imparfait",
+          "C'était trop grand"
+        ],
+        "es": [
+          "Era incompleto",
+          "Era muy bueno",
+          "Era hermoso pero imperfecto",
+          "Era demasiado grande"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 1:31",
+        "fr": "Genèse 1:31",
+        "es": "Génesis 1:31"
+      }
+    },
+    {
+      "id": "q_0040",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "What did God do on the seventh day?",
+        "fr": "Qu'est-ce que Dieu a fait le septième jour ?",
+        "es": "¿Qué hizo Dios el séptimo día?"
+      },
+      "options": {
+        "en": [
+          "He created man",
+          "He made the sun",
+          "He rested and blessed the day",
+          "He flooded the earth"
+        ],
+        "fr": [
+          "Il a créé l'homme",
+          "Il a fait le soleil",
+          "Il s'est reposé et a béni le jour",
+          "Il a inondé la terre"
+        ],
+        "es": [
+          "Creó al hombre",
+          "Hizo el sol",
+          "Descansó y bendijo el día",
+          "Inundó la tierra"
+        ]
+      },
+      "correctIndex": 2,
+      "reference": {
+        "en": "Genesis 2:1-3",
+        "fr": "Genèse 2:1-3",
+        "es": "Génesis 2:1-3"
+      }
+    },
+    {
+      "id": "q_0041",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "From what material was the first man formed?",
+        "fr": "De quelle matière le premier homme a-t-il été formé ?",
+        "es": "¿De qué material fue formado el primer hombre?"
+      },
+      "options": {
+        "en": [
+          "Clay from a river",
+          "The dust of the ground",
+          "A drop of rain",
+          "A stone"
+        ],
+        "fr": [
+          "De l'argile d'une rivière",
+          "La poussière du sol",
+          "Une goutte de pluie",
+          "Une pierre"
+        ],
+        "es": [
+          "Arcilla de un río",
+          "El polvo de la tierra",
+          "Una gota de lluvia",
+          "Una piedra"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 2:7",
+        "fr": "Genèse 2:7",
+        "es": "Génesis 2:7"
+      }
+    },
+    {
+      "id": "q_0042",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "How did God give life to the man?",
+        "fr": "Comment Dieu a-t-il donné la vie à l'homme ?",
+        "es": "¿Cómo dio Dios vida al hombre?"
+      },
+      "options": {
+        "en": [
+          "He touched his forehead",
+          "He breathed the breath of life into his nostrils",
+          "He spoke and the man stood up",
+          "He poured water on him"
+        ],
+        "fr": [
+          "Il a touché son front",
+          "Il a insufflé le souffle de vie dans ses narines",
+          "Il a parlé et l'homme s'est levé",
+          "Il a versé de l'eau sur lui"
+        ],
+        "es": [
+          "Tocó su frente",
+          "Sopló el aliento de vida en sus fosas nasales",
+          "Habló y el hombre se levantó",
+          "Le echó agua"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 2:7",
+        "fr": "Genèse 2:7",
+        "es": "Génesis 2:7"
+      }
+    },
+    {
+      "id": "q_0043",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "What was the name of the garden where God put the man?",
+        "fr": "Quel était le nom du jardin où Dieu a placé l'homme ?",
+        "es": "¿Cómo se llamaba el jardín donde Dios puso al hombre?"
+      },
+      "options": {
+        "en": [
+          "Canaan",
+          "Eden",
+          "Gethsemane",
+          "Babylon"
+        ],
+        "fr": [
+          "Canaan",
+          "Éden",
+          "Gethsémani",
+          "Babylone"
+        ],
+        "es": [
+          "Canaán",
+          "Edén",
+          "Getsemaní",
+          "Babilonia"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 2:8",
+        "fr": "Genèse 2:8",
+        "es": "Génesis 2:8"
+      }
+    },
+    {
+      "id": "q_0044",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "Which of these was NOT one of the four rivers that watered Eden?",
+        "fr": "Laquelle de ces rivières n'était PAS l'une des quatre qui arrosaient l'Éden ?",
+        "es": "¿Cuál de estos NO era uno de los cuatro ríos que regaban Edén?"
+      },
+      "options": {
+        "en": [
+          "The Nile",
+          "The Tigris",
+          "The Euphrates",
+          "The Pishon"
+        ],
+        "fr": [
+          "Le Nil",
+          "Le Tigre",
+          "L'Euphrate",
+          "Le Pishon"
+        ],
+        "es": [
+          "El Nilo",
+          "El Tigris",
+          "El Éufrates",
+          "El Pisón"
+        ]
+      },
+      "correctIndex": 0,
+      "reference": {
+        "en": "Genesis 2:10-14",
+        "fr": "Genèse 2:10-14",
+        "es": "Génesis 2:10-14"
+      }
+    },
+    {
+      "id": "q_0045",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "What was the man's task in the garden?",
+        "fr": "Quelle était la tâche de l'homme dans le jardin ?",
+        "es": "¿Cuál era la tarea del hombre en el jardín?"
+      },
+      "options": {
+        "en": [
+          "Build a city",
+          "Work and take care of the garden",
+          "Count all the stars",
+          "Fish in the rivers"
+        ],
+        "fr": [
+          "Construire une ville",
+          "Travailler et garder le jardin",
+          "Compter toutes les étoiles",
+          "Pêcher dans les rivières"
+        ],
+        "es": [
+          "Construir una ciudad",
+          "Labrar y cuidar el jardín",
+          "Contar todas las estrellas",
+          "Pescar en los ríos"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 2:15",
+        "fr": "Genèse 2:15",
+        "es": "Génesis 2:15"
+      }
+    },
+    {
+      "id": "q_0046",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "What did God command the man not to eat?",
+        "fr": "Qu'est-ce que Dieu a interdit à l'homme de manger ?",
+        "es": "¿Qué le ordenó Dios al hombre que no comiera?"
+      },
+      "options": {
+        "en": [
+          "The fruit of the tree of life",
+          "The fruit of the tree of the knowledge of good and evil",
+          "The apples in the garden",
+          "The seeds of the plants"
+        ],
+        "fr": [
+          "Le fruit de l'arbre de vie",
+          "Le fruit de l'arbre de la connaissance du bien et du mal",
+          "Les pommes du jardin",
+          "Les graines des plantes"
+        ],
+        "es": [
+          "El fruto del árbol de la vida",
+          "El fruto del árbol del conocimiento del bien y del mal",
+          "Las manzanas del jardín",
+          "Las semillas de las plantas"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 2:17",
+        "fr": "Genèse 2:17",
+        "es": "Génesis 2:17"
+      }
+    },
+    {
+      "id": "q_0047",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "Who named all the animals?",
+        "fr": "Qui a nommé tous les animaux ?",
+        "es": "¿Quién nombró a todos los animales?"
+      },
+      "options": {
+        "en": [
+          "God",
+          "The angels",
+          "The man",
+          "The woman"
+        ],
+        "fr": [
+          "Dieu",
+          "Les anges",
+          "L'homme",
+          "La femme"
+        ],
+        "es": [
+          "Dios",
+          "Los ángeles",
+          "El hombre",
+          "La mujer"
+        ]
+      },
+      "correctIndex": 2,
+      "reference": {
+        "en": "Genesis 2:19-20",
+        "fr": "Genèse 2:19-20",
+        "es": "Génesis 2:19-20"
+      }
+    },
+    {
+      "id": "q_0048",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "From what part of Adam was the woman created?",
+        "fr": "De quelle partie d'Adam la femme a-t-elle été créée ?",
+        "es": "¿De qué parte de Adán fue creada la mujer?"
+      },
+      "options": {
+        "en": [
+          "One of his ribs",
+          "His hand",
+          "His foot",
+          "His hair"
+        ],
+        "fr": [
+          "Une de ses côtes",
+          "Sa main",
+          "Son pied",
+          "Ses cheveux"
+        ],
+        "es": [
+          "Una de sus costillas",
+          "Su mano",
+          "Su pie",
+          "Su cabello"
+        ]
+      },
+      "correctIndex": 0,
+      "reference": {
+        "en": "Genesis 2:21-22",
+        "fr": "Genèse 2:21-22",
+        "es": "Génesis 2:21-22"
+      }
+    },
+    {
+      "id": "q_0049",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "What did the man say when he saw the woman?",
+        "fr": "Qu'a dit l'homme quand il a vu la femme ?",
+        "es": "¿Qué dijo el hombre al ver a la mujer?"
+      },
+      "options": {
+        "en": [
+          "\"This is my sister\"",
+          "\"Bone of my bones and flesh of my flesh\"",
+          "\"Who are you?\"",
+          "\"I will name you Eve\""
+        ],
+        "fr": [
+          "« C'est ma sœur »",
+          "« C'est l'os de mes os et la chair de ma chair »",
+          "« Qui es-tu ? »",
+          "« Je t'appellerai Eve »"
+        ],
+        "es": [
+          "« Eres mi hermana »",
+          "« Hueso de mis huesos y carne de mi carne »",
+          "« ¿Quién eres? »",
+          "« Te llamaré Eva »"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 2:23",
+        "fr": "Genèse 2:23",
+        "es": "Génesis 2:23"
+      }
+    },
+    {
+      "id": "q_0050",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "Which creature was described as more crafty than all others?",
+        "fr": "Quelle créature était décrite comme la plus rusée de toutes ?",
+        "es": "¿Qué criatura era descrita como la más astuta de todas?"
+      },
+      "options": {
+        "en": [
+          "The lion",
+          "The eagle",
+          "The serpent",
+          "The fox"
+        ],
+        "fr": [
+          "Le lion",
+          "L'aigle",
+          "Le serpent",
+          "Le renard"
+        ],
+        "es": [
+          "El león",
+          "El águila",
+          "La serpiente",
+          "El zorro"
+        ]
+      },
+      "correctIndex": 2,
+      "reference": {
+        "en": "Genesis 3:1",
+        "fr": "Genèse 3:1",
+        "es": "Génesis 3:1"
+      }
+    },
+    {
+      "id": "q_0051",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "What did the serpent first ask the woman?",
+        "fr": "Qu'est-ce que le serpent a demandé en premier à la femme ?",
+        "es": "¿Qué le preguntó primero la serpiente a la mujer?"
+      },
+      "options": {
+        "en": [
+          "\"Where is your husband?\"",
+          "\"Did God really say you must not eat from any tree in the garden?\"",
+          "\"What is your name?\"",
+          "\"Why are you alone?\""
+        ],
+        "fr": [
+          "« Où est ton mari ? »",
+          "« Est-ce que Dieu a vraiment dit : Vous ne mangerez d'aucun arbre du jardin ? »",
+          "« Quel est ton nom ? »",
+          "« Pourquoi es-tu seule ? »"
+        ],
+        "es": [
+          "« ¿Dónde está tu marido? »",
+          "« ¿Conque Dios os ha dicho: No comáis de todo árbol del huerto? »",
+          "« ¿Cómo te llamas? »",
+          "« ¿Por qué estás sola? »"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 3:1",
+        "fr": "Genèse 3:1",
+        "es": "Génesis 3:1"
+      }
+    },
+    {
+      "id": "q_0052",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "What lie did the serpent tell about eating the forbidden fruit?",
+        "fr": "Quel mensonge le serpent a-t-il dit au sujet du fruit défendu ?",
+        "es": "¿Qué mentira dijo la serpiente sobre comer el fruto prohibido?"
+      },
+      "options": {
+        "en": [
+          "\"It will make you fly\"",
+          "\"You will not surely die; you will be like God\"",
+          "\"It will heal all sickness\"",
+          "\"It will turn into gold\""
+        ],
+        "fr": [
+          "« Il te fera voler »",
+          "« Vous ne mourrez point ; vous serez comme des dieux »",
+          "Il guérira toute maladie »",
+          "Il se changera en or »"
+        ],
+        "es": [
+          "« Te hará volar »",
+          "« No moriréis; seréis como Dios »",
+          "« Curará toda enfermedad »",
+          "« Se convertirá en oro »"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 3:4-5",
+        "fr": "Genèse 3:4-5",
+        "es": "Génesis 3:4-5"
+      }
+    },
+    {
+      "id": "q_0053",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "What did the woman first do with the forbidden fruit?",
+        "fr": "Qu'a d'abord fait la femme avec le fruit défendu ?",
+        "es": "¿Qué hizo primero la mujer con el fruto prohibido?"
+      },
+      "options": {
+        "en": [
+          "She threw it away",
+          "She ate it and gave some to her husband",
+          "She buried it",
+          "She gave it to the serpent"
+        ],
+        "fr": [
+          "Elle l'a jeté",
+          "Elle l'a mangé et en a donné à son mari",
+          "Elle l'a enterré",
+          "Elle l'a donné au serpent"
+        ],
+        "es": [
+          "Lo tiró",
+          "Lo comió y dio a su marido",
+          "Lo enterró",
+          "Se lo dio a la serpiente"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 3:6",
+        "fr": "Genèse 3:6",
+        "es": "Génesis 3:6"
+      }
+    },
+    {
+      "id": "q_0054",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "What did Adam and Eve sew together to cover themselves?",
+        "fr": "Qu'est-ce qu'Adam et Ève ont cousu ensemble pour se couvrir ?",
+        "es": "¿Qué cosieron Adán y Eva para cubrirse?"
+      },
+      "options": {
+        "en": [
+          "Animal skins",
+          "Fig leaves",
+          "Palm branches",
+          "Moss"
+        ],
+        "fr": [
+          "Des peaux d'animaux",
+          "Des feuilles de figuier",
+          "Des branches de palmier",
+          "De la mousse"
+        ],
+        "es": [
+          "Pieles de animales",
+          "Hojas de higuera",
+          "Ramas de palmera",
+          "Musgo"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 3:7",
+        "fr": "Genèse 3:7",
+        "es": "Génesis 3:7"
+      }
+    },
+    {
+      "id": "q_0055",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "Where did Adam and Eve hide when they heard God walking?",
+        "fr": "Où se sont cachés Adam et Ève en entendant Dieu passer ?",
+        "es": "¿Dónde se escondieron Adán y Eva cuando oyeron a Dios caminar?"
+      },
+      "options": {
+        "en": [
+          "In a cave",
+          "Among the trees of the garden",
+          "Behind a rock",
+          "In the river"
+        ],
+        "fr": [
+          "Dans une grotte",
+          "Parmi les arbres du jardin",
+          "Derrière un rocher",
+          "Dans la rivière"
+        ],
+        "es": [
+          "En una cueva",
+          "Entre los árboles del jardín",
+          "Detrás de una roca",
+          "En el río"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 3:8",
+        "fr": "Genèse 3:8",
+        "es": "Génesis 3:8"
+      }
+    },
+    {
+      "id": "q_0056",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "Who did Adam blame when God asked if he had eaten the fruit?",
+        "fr": "Qui Adam a-t-il blâmé quand Dieu lui a demandé s'il avait mangé le fruit ?",
+        "es": "¿A quién culpó Adán cuando Dios le preguntó si había comido el fruto?"
+      },
+      "options": {
+        "en": [
+          "The serpent",
+          "The woman",
+          "Himself",
+          "The animals"
+        ],
+        "fr": [
+          "Le serpent",
+          "La femme",
+          "Lui-même",
+          "Les animaux"
+        ],
+        "es": [
+          "A la serpiente",
+          "A la mujer",
+          "A sí mismo",
+          "A los animales"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 3:12",
+        "fr": "Genèse 3:12",
+        "es": "Génesis 3:12"
+      }
+    },
+    {
+      "id": "q_0057",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "What did the woman say had caused her to eat?",
+        "fr": "Qu'a dit la femme qui l'avait poussée à manger ?",
+        "es": "¿Qué dijo la mujer que la había hecho comer?"
+      },
+      "options": {
+        "en": [
+          "\"The serpent deceived me\"",
+          "\"The fruit looked good\"",
+          "\"God told me to\"",
+          "\"Adam forced me\""
+        ],
+        "fr": [
+          "« Le serpent m'a séduite »",
+          "« Le fruit avait l'air bon »",
+          "« Dieu me l'a ordonné »",
+          "« Adam m'a forcée »"
+        ],
+        "es": [
+          "« La serpiente me engañó »",
+          "« El fruto se veía bueno »",
+          "« Dios me lo dijo »",
+          "« Adán me obligó »"
+        ]
+      },
+      "correctIndex": 0,
+      "reference": {
+        "en": "Genesis 3:13",
+        "fr": "Genèse 3:13",
+        "es": "Génesis 3:13"
+      }
+    },
+    {
+      "id": "q_0058",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "What did God curse the serpent to do?",
+        "fr": "Qu'est-ce que Dieu a maudit le serpent à faire ?",
+        "es": "¿Qué maldijo Dios que hiciera la serpiente?"
+      },
+      "options": {
+        "en": [
+          "Crawl on its belly and eat dust",
+          "Live in the water only",
+          "Shed its skin every day",
+          "Never see the sun"
+        ],
+        "fr": [
+          "Ramper sur le ventre et manger la poussière",
+          "Vivre uniquement dans l'eau",
+          "Muer sa peau chaque jour",
+          "Ne jamais voir le soleil"
+        ],
+        "es": [
+          "Arrastrarse sobre su vientre y comer polvo",
+          "Vivir solo en el agua",
+          "Mudar su piel cada día",
+          "Nunca ver el sol"
+        ]
+      },
+      "correctIndex": 0,
+      "reference": {
+        "en": "Genesis 3:14",
+        "fr": "Genèse 3:14",
+        "es": "Génesis 3:14"
+      }
+    },
+    {
+      "id": "q_0059",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "What punishment did God give the woman?",
+        "fr": "Quelle punition Dieu a-t-il donnée à la femme ?",
+        "es": "¿Qué castigo dio Dios a la mujer?"
+      },
+      "options": {
+        "en": [
+          "She would live forever",
+          "Great pain in childbearing, and her husband would rule over her",
+          "She would never be able to speak",
+          "She would be blind"
+        ],
+        "fr": [
+          "Elle vivrait pour toujours",
+          "De grandes douleurs à l'enfantement, et son mari dominerait sur elle",
+          "Elle ne pourrait plus jamais parler",
+          "Elle serait aveugle"
+        ],
+        "es": [
+          "Viviría para siempre",
+          "Grandes dolores en el parto, y su marido la dominaría",
+          "No podría hablar nunca más",
+          "Estaría ciega"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 3:16",
+        "fr": "Genèse 3:16",
+        "es": "Génesis 3:16"
+      }
+    },
+    {
+      "id": "q_0060",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "What did God make garments of for Adam and Eve?",
+        "fr": "De quoi Dieu a-t-il fait des vêtements pour Adam et Ève ?",
+        "es": "¿De qué hizo Dios vestidos para Adán y Eva?"
+      },
+      "options": {
+        "en": [
+          "Fig leaves",
+          "Cotton",
+          "Animal skins",
+          "Wool"
+        ],
+        "fr": [
+          "Des feuilles de figuier",
+          "Du coton",
+          "Des peaux d'animaux",
+          "De la laine"
+        ],
+        "es": [
+          "Hojas de higuera",
+          "Algodón",
+          "Pieles de animales",
+          "Lana"
+        ]
+      },
+      "correctIndex": 2,
+      "reference": {
+        "en": "Genesis 3:21",
+        "fr": "Genèse 3:21",
+        "es": "Génesis 3:21"
+      }
+    },
+    {
+      "id": "q_0061",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "Why did God banish the man from the garden?",
+        "fr": "Pourquoi Dieu a-t-il chassé l'homme du jardin ?",
+        "es": "¿Por qué desterró Dios al hombre del jardín?"
+      },
+      "options": {
+        "en": [
+          "So he would not eat from the tree of life and live forever",
+          "Because the garden was too big",
+          "To build a city",
+          "To visit other lands"
+        ],
+        "fr": [
+          "Pour qu'il ne mange pas de l'arbre de vie et ne vive pas éternellement",
+          "Parce que le jardin était trop grand",
+          "Pour construire une ville",
+          "Pour visiter d'autres pays"
+        ],
+        "es": [
+          "Para que no comiera del árbol de la vida y viviera para siempre",
+          "Porque el jardín era demasiado grande",
+          "Para construir una ciudad",
+          "Para visitar otras tierras"
+        ]
+      },
+      "correctIndex": 0,
+      "reference": {
+        "en": "Genesis 3:22-23",
+        "fr": "Genèse 3:22-23",
+        "es": "Génesis 3:22-23"
+      }
+    },
+    {
+      "id": "q_0062",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "What guards the way to the tree of life?",
+        "fr": "Qu'est-ce qui garde le chemin de l'arbre de vie ?",
+        "es": "¿Qué guarda el camino al árbol de la vida?"
+      },
+      "options": {
+        "en": [
+          "A lion",
+          "Cherubim and a flaming sword",
+          "A river of fire",
+          "An angel with a trumpet"
+        ],
+        "fr": [
+          "Un lion",
+          "Des chérubins et une épée flamboyante",
+          "Une rivière de feu",
+          "Un ange avec une trompette"
+        ],
+        "es": [
+          "Un león",
+          "Querubines y una espada encendida",
+          "Un río de fuego",
+          "Un ángel con una trompeta"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 3:24",
+        "fr": "Genèse 3:24",
+        "es": "Génesis 3:24"
+      }
+    },
+    {
+      "id": "q_0063",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "What were the names of Adam and Eve's first two sons?",
+        "fr": "Quels étaient les noms des deux premiers fils d'Adam et Ève ?",
+        "es": "¿Cómo se llamaban los dos primeros hijos de Adán y Eva?"
+      },
+      "options": {
+        "en": [
+          "Seth and Enosh",
+          "Cain and Abel",
+          "Noah and Shem",
+          "Abraham and Ishmael"
+        ],
+        "fr": [
+          "Seth et Enosh",
+          "Caïn et Abel",
+          "Noé et Sem",
+          "Abraham et Ismaël"
+        ],
+        "es": [
+          "Set y Enós",
+          "Caín y Abel",
+          "Noé y Sem",
+          "Abraham e Ismael"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 4:1-2",
+        "fr": "Genèse 4:1-2",
+        "es": "Génesis 4:1-2"
+      }
+    },
+    {
+      "id": "q_0064",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "What was Abel's occupation?",
+        "fr": "Quel était le métier d'Abel ?",
+        "es": "¿Cuál era el oficio de Abel?"
+      },
+      "options": {
+        "en": [
+          "Farmer",
+          "Shepherd",
+          "Carpenter",
+          "Fisherman"
+        ],
+        "fr": [
+          "Agriculteur",
+          "Berger",
+          "Charpentier",
+          "Pêcheur"
+        ],
+        "es": [
+          "Agricultor",
+          "Pastor",
+          "Carpintero",
+          "Pescador"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 4:2",
+        "fr": "Genèse 4:2",
+        "es": "Génesis 4:2"
+      }
+    },
+    {
+      "id": "q_0065",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "What was Cain's occupation?",
+        "fr": "Quel était le métier de Caïn ?",
+        "es": "¿Cuál era el oficio de Caín?"
+      },
+      "options": {
+        "en": [
+          "Shepherd",
+          "Builder",
+          "Farmer (worker of the ground)",
+          "Sailor"
+        ],
+        "fr": [
+          "Berger",
+          "Bâtisseur",
+          "Agriculteur (ouvrier de la terre)",
+          "Marin"
+        ],
+        "es": [
+          "Pastor",
+          "Constructor",
+          "Agricultor (labrador de la tierra)",
+          "Marinero"
+        ]
+      },
+      "correctIndex": 2,
+      "reference": {
+        "en": "Genesis 4:2",
+        "fr": "Genèse 4:2",
+        "es": "Génesis 4:2"
+      }
+    },
+    {
+      "id": "q_0066",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "Why was Cain angry?",
+        "fr": "Pourquoi Caïn était-il en colère ?",
+        "es": "¿Por qué estaba Caín enojado?"
+      },
+      "options": {
+        "en": [
+          "God favored Abel's offering but not Cain's",
+          "Abel stole his land",
+          "Eve loved Abel more",
+          "His crops failed"
+        ],
+        "fr": [
+          "Dieu a agréé l'offrande d'Abel mais pas celle de Caïn",
+          "Abel lui a volé sa terre",
+          "Ève aimait plus Abel",
+          "Ses récoltes ont échoué"
+        ],
+        "es": [
+          "Dios aceptó la ofrenda de Abel pero no la de Caín",
+          "Abel le robó su tierra",
+          "Eva quería más a Abel",
+          "Sus cosechas fallaron"
+        ]
+      },
+      "correctIndex": 0,
+      "reference": {
+        "en": "Genesis 4:4-5",
+        "fr": "Genèse 4:4-5",
+        "es": "Génesis 4:4-5"
+      }
+    },
+    {
+      "id": "q_0067",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "What did Cain do to Abel?",
+        "fr": "Qu'est-ce que Caïn a fait à Abel ?",
+        "es": "¿Qué le hizo Caín a Abel?"
+      },
+      "options": {
+        "en": [
+          "He forgave him",
+          "He killed him",
+          "He gave him his flock",
+          "He ran away from him"
+        ],
+        "fr": [
+          "Il lui a pardonné",
+          "Il l'a tué",
+          "Il lui a donné son troupeau",
+          "Il s'est enfui loin de lui"
+        ],
+        "es": [
+          "Le perdonó",
+          "Lo mató",
+          "Le dio su rebaño",
+          "Huyó de él"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 4:8",
+        "fr": "Genèse 4:8",
+        "es": "Génesis 4:8"
+      }
+    },
+    {
+      "id": "q_0068",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "What was Cain's punishment for killing Abel?",
+        "fr": "Quelle a été la punition de Caïn pour avoir tué Abel ?",
+        "es": "¿Cuál fue el castigo de Caín por matar a Abel?"
+      },
+      "options": {
+        "en": [
+          "He was put to death",
+          "He became a restless wanderer and the ground no longer yielded for him",
+          "He was imprisoned forever",
+          "He was turned into stone"
+        ],
+        "fr": [
+          "Il a été mis à mort",
+          "Il est devenu un fugitif errant et la terre ne lui a plus donné de fruit",
+          "Il a été emprisonné pour toujours",
+          "Il a été changé en pierre"
+        ],
+        "es": [
+          "Fue condenado a muerte",
+          "Se convirtió en un vagabundo inquieto y la tierra ya no le dio fruto",
+          "Fue encarcelado para siempre",
+          "Fue convertido en piedra"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 4:11-12",
+        "fr": "Genèse 4:11-12",
+        "es": "Génesis 4:11-12"
+      }
+    },
+    {
+      "id": "q_0069",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "What did God give Cain so that no one would kill him?",
+        "fr": "Qu'est-ce que Dieu a donné à Caïn pour que personne ne le tue ?",
+        "es": "¿Qué le dio Dios a Caín para que nadie lo matara?"
+      },
+      "options": {
+        "en": [
+          "A crown",
+          "A sword",
+          "A sign (mark)",
+          "A ring"
+        ],
+        "fr": [
+          "Une couronne",
+          "Une épée",
+          "Un signe (une marque)",
+          "Une bague"
+        ],
+        "es": [
+          "Una corona",
+          "Una espada",
+          "Una señal (marca)",
+          "Un anillo"
+        ]
+      },
+      "correctIndex": 2,
+      "reference": {
+        "en": "Genesis 4:15",
+        "fr": "Genèse 4:15",
+        "es": "Génesis 4:15"
+      }
+    },
+    {
+      "id": "q_0070",
+      "type": "MCQ",
+      "difficulty": 1,
+      "text": {
+        "en": "What was the name of Adam and Eve's third son?",
+        "fr": "Quel était le nom du troisième fils d'Adam et Ève ?",
+        "es": "¿Cómo se llamaba el tercer hijo de Adán y Eva?"
+      },
+      "options": {
+        "en": [
+          "Enoch",
+          "Seth",
+          "Methuselah",
+          "Lamech"
+        ],
+        "fr": [
+          "Hénoch",
+          "Seth",
+          "Mathusalem",
+          "Lémec"
+        ],
+        "es": [
+          "Enoc",
+          "Set",
+          "Matusalén",
+          "Lamec"
+        ]
+      },
+      "correctIndex": 1,
+      "reference": {
+        "en": "Genesis 4:25",
+        "fr": "Genèse 4:25",
+        "es": "Génesis 4:25"
+      }
+    }
+  ]
+}

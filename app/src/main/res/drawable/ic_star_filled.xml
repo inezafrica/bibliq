@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- BibliQ — ic_star_filled. Viewport 48x48. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <path
+        android:pathData="M22.77,8.1 Q24,5.6 25.23,8.1 L28.64,15.01 Q29.88,17.51 32.64,17.91 L40.26,19.02 Q43.02,19.42 41.02,21.37 L35.51,26.74 Q33.51,28.69 33.98,31.44 L35.28,39.03 Q35.76,41.78 33.29,40.48 L26.47,36.9 Q24,35.6 21.53,36.9 L14.71,40.48 Q12.24,41.78 12.72,39.03 L14.02,31.44 Q14.49,28.69 12.49,26.74 L6.98,21.37 Q4.98,19.42 7.74,19.02 L15.36,17.91 Q18.12,17.51 19.36,15.01 Z"
+        android:fillColor="#F5B82E"
+        android:strokeColor="#9A5E0A"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M21.63,12.95 Q22.4,11.4 23.17,12.95 L25.28,17.23 Q26.04,18.78 27.76,19.03 L32.48,19.72 Q34.19,19.97 32.95,21.18 L29.53,24.51 Q28.3,25.72 28.59,27.42 L29.4,32.13 Q29.69,33.83 28.16,33.03 L23.93,30.8 Q22.4,30 20.87,30.8 L16.64,33.03 Q15.11,33.83 15.4,32.13 L16.21,27.42 Q16.5,25.72 15.27,24.51 L11.85,21.18 Q10.61,19.97 12.32,19.72 L17.04,19.03 Q18.76,18.78 19.52,17.23 Z"
+        android:fillColor="#FFE7A3"
+        android:fillAlpha="0.55" />
+    <path
+        android:pathData="M19.4,17.54 C19.85,18.17 19.4,19.25 18.4,19.95 C17.41,20.64 16.24,20.7 15.8,20.06 C15.35,19.43 15.8,18.35 16.8,17.65 C17.79,16.96 18.96,16.9 19.4,17.54 Z"
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.9" />
+</vector>

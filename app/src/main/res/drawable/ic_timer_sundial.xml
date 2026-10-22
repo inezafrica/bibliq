@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- BibliQ — ic_timer_sundial. Viewport 48x48. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <path
+        android:pathData="M42,26 C42,35.94 33.94,44 24,44 C14.06,44 6,35.94 6,26 C6,16.06 14.06,8 24,8 C33.94,8 42,16.06 42,26 Z"
+        android:fillColor="#EFEAE0"
+        android:strokeColor="#5E554A"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M11.41,21.42 C13.33,16.12 18.37,12.6 24,12.6 C29.63,12.6 34.67,16.12 36.59,21.42"
+        android:strokeColor="#B4AA99"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M24,26.6 L10.6,30.2 L11.4,26.2 Z"
+        android:fillColor="#2D2A32"
+        android:fillAlpha="0.35" />
+    <path
+        android:pathData="M21.8,27.4 L24.8,7.2 L27.6,27.4 Z"
+        android:fillColor="#F5B82E"
+        android:strokeColor="#6A3E14"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M26.2,27 C26.2,28.22 25.22,29.2 24,29.2 C22.78,29.2 21.8,28.22 21.8,27 C21.8,25.78 22.78,24.8 24,24.8 C25.22,24.8 26.2,25.78 26.2,27 Z"
+        android:fillColor="#D99A12"
+        android:strokeColor="#6A3E14"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>

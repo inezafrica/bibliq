@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- BibliQ icon. Viewport 48x48, default size 24dp. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <group android:translateY="-2.5">
+    <path
+        android:pathData="M9,28.5 C3.2,27.6 3.2,34.6 9,33.6"
+        android:strokeColor="#5E524C"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M9,28.5 C3.2,27.6 3.2,34.6 9,33.6"
+        android:strokeColor="#B3A39A"
+        android:strokeWidth="1.4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M14.5,37.5 L25.5,37.5 Q25.5,42.2 20,42.2 Q14.5,42.2 14.5,37.5 Z"
+        android:fillColor="#968377"
+        android:strokeColor="#5E524C"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M7,31 C7,25 13,22 21,22 C27,22 31,24 34,26 L40,26.6 C42.6,26.9 42.9,29.7 40.4,30.6 L35,32.2 C32,37 27,40 20,40 C12,40 7,36 7,31 Z"
+        android:fillColor="#B3A39A"
+        android:strokeColor="#5E524C"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M8.6,33.2 C10.8,37.2 15,39 20,39 C26,39 30.4,36.8 33.4,33.4 C29.6,36 25.4,37.2 20,37.2 C15,37.2 11.2,35.8 8.6,33.2 Z"
+        android:fillColor="#968377" />
+    <path
+        android:pathData="M16,25.4 a4,1.6 0 1,0 8,0 a4,1.6 0 1,0 -8,0 Z"
+        android:fillColor="#5E514A" />
+    <path
+        android:pathData="M10.6,29.6 C11.6,27.2 13.4,25.9 15.2,25.3"
+        android:strokeColor="#D2C6BF"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M40.2,26.9 a0.9,0.9 0 1,0 1.8,0 a0.9,0.9 0 1,0 -1.8,0 Z"
+        android:fillColor="#3E3532" />
+    <path
+        android:pathData="M41,25.2 C38.4,22.2 43.6,19.6 41,16.6 C39,14.2 41.8,11.6 43.6,10.4"
+        android:strokeColor="#A9A4A1"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeAlpha="0.9" />
+    <path
+        android:pathData="M43.6,22.4 C45.2,20.8 44,19.4 45.4,18"
+        android:strokeColor="#A9A4A1"
+        android:strokeWidth="1.3"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeAlpha="0.7" />
+    </group>
+</vector>

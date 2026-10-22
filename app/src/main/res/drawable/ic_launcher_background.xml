@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- BibliQ launcher background. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:pathData="M0,0 L108,0 L108,108 L0,108 Z"
+        android:fillColor="#2B4C9B" />
+    <path
+        android:pathData="M54,54 L143.51,44.59 L143.51,63.41 Z"
+        android:fillColor="#4A6CC0"
+        android:fillAlpha="0.35" />
+    <path
+        android:pathData="M54,54 L136.22,90.61 L126.81,106.9 Z"
+        android:fillColor="#4A6CC0"
+        android:fillAlpha="0.35" />
+    <path
+        android:pathData="M54,54 L106.9,126.81 L90.61,136.22 Z"
+        android:fillColor="#4A6CC0"
+        android:fillAlpha="0.35" />
+    <path
+        android:pathData="M54,54 L63.41,143.51 L44.59,143.51 Z"
+        android:fillColor="#4A6CC0"
+        android:fillAlpha="0.35" />
+    <path
+        android:pathData="M54,54 L17.39,136.22 L1.1,126.81 Z"
+        android:fillColor="#4A6CC0"
+        android:fillAlpha="0.35" />
+    <path
+        android:pathData="M54,54 L-18.81,106.9 L-28.22,90.61 Z"
+        android:fillColor="#4A6CC0"
+        android:fillAlpha="0.35" />
+    <path
+        android:pathData="M54,54 L-35.51,63.41 L-35.51,44.59 Z"
+        android:fillColor="#4A6CC0"
+        android:fillAlpha="0.35" />
+    <path
+        android:pathData="M54,54 L-28.22,17.39 L-18.81,1.1 Z"
+        android:fillColor="#4A6CC0"
+        android:fillAlpha="0.35" />
+    <path
+        android:pathData="M54,54 L1.1,-18.81 L17.39,-28.22 Z"
+        android:fillColor="#4A6CC0"
+        android:fillAlpha="0.35" />
+    <path
+        android:pathData="M54,54 L44.59,-35.51 L63.41,-35.51 Z"
+        android:fillColor="#4A6CC0"
+        android:fillAlpha="0.35" />
+    <path
+        android:pathData="M54,54 L90.61,-28.22 L106.9,-18.81 Z"
+        android:fillColor="#4A6CC0"
+        android:fillAlpha="0.35" />
+    <path
+        android:pathData="M54,54 L126.81,1.1 L136.22,17.39 Z"
+        android:fillColor="#4A6CC0"
+        android:fillAlpha="0.35" />
+    <path
+        android:pathData="M88,54 C88,72.78 72.78,88 54,88 C35.22,88 20,72.78 20,54 C20,35.22 35.22,20 54,20 C72.78,20 88,35.22 88,54 Z"
+        android:fillColor="#8EC5FF"
+        android:fillAlpha="0.18" />
+    <path
+        android:pathData="M80,54 C80,68.36 68.36,80 54,80 C39.64,80 28,68.36 28,54 C28,39.64 39.64,28 54,28 C68.36,28 80,39.64 80,54 Z"
+        android:fillColor="#FFE7A3"
+        android:fillAlpha="0.18" />
+</vector>

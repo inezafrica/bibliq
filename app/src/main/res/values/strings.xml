@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">BibliQ</string>
+
+    <string name="play_level">PLAY LEVEL %d</string>
+    <string name="next_life_in">Next life in %s</string>
+    <string name="new_levels_on">New levels %s</string>
+    <string name="finish_level_first">Finish level %d first</string>
+    <string name="world_1">WORLD 1 · Creation</string>
+
+    <string name="nav_map">Map</string>
+    <string name="nav_endless">Endless</string>
+    <string name="nav_badges">Badges</string>
+    <string name="nav_profile">Profile</string>
+
+    <string name="rank_1">Seeker</string>
+    <string name="rank_2">Disciple</string>
+    <string name="rank_3">Scribe</string>
+    <string name="rank_4">Prophet</string>
+    <string name="rank_5">Apostle</string>
+    <string name="rank_6">Elder</string>
+
+    <string name="level_cd_done">Level %1$d, %2$d stars</string>
+    <string name="level_cd_current">Level %d, current</string>
+    <string name="level_cd_locked">Level %d, locked</string>
+
+    <string name="type_mcq">MULTIPLE CHOICE</string>
+    <string name="type_true_false">TRUE OR FALSE</string>
+    <string name="type_picture">PICTURE</string>
+    <string name="type_who_said">WHO SAID IT?</string>
+    <string name="answer_true">True</string>
+    <string name="answer_false">False</string>
+    <string name="well_done">Well done!</string>
+    <string name="points_gained">+%1$d points · speed bonus +%2$d</string>
+    <string name="answer_is">The answer is %s.</string>
+    <string name="encourage_1">You\'ll get it next time!</string>
+    <string name="encourage_2">Almost!</string>
+    <string name="encourage_3">Keep going!</string>
+    <string name="times_up">Time\'s up!</string>
+    <string name="next">NEXT</string>
+    <string name="continue_button">CONTINUE</string>
+    <string name="quit_title">Quit level?</string>
+    <string name="quit_body">Your progress in this level will be lost.</string>
+    <string name="quit_yes">Quit</string>
+    <string name="quit_no">Keep playing</string>
+    <string name="chances_left">%d chances left</string>
+    <string name="power_5050">50/50 — costs %d Talents</string>
+    <string name="power_time">Extra time — costs %d Talents</string>
+    <string name="power_skip">Skip — costs %d Talents</string>
+    <string name="power_verse">Reveal the verse — costs %d Talents</string>
+
+    <string name="level_complete">Level %d complete!</string>
+    <string name="level_failed">Level %d failed</string>
+    <string name="result_correct">%1$d / %2$d correct</string>
+    <string name="result_score">Score: %d</string>
+    <string name="result_talents">+%d Talents</string>
+    <string name="result_life_lost">You lost a life</string>
+    <string name="next_level">NEXT LEVEL</string>
+    <string name="try_again">TRY AGAIN</string>
+    <string name="back_to_map">BACK TO MAP</string>
+    <string name="out_of_lives">No lives left. Next life in %s</string>
+    <string name="content_error_title">Can\'t load your levels</string>
+    <string name="content_error_body">Connect to the internet to download your levels, then try again.</string>
+    <string name="retry">RETRY</string>
+</resources>

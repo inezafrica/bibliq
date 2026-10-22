@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- BibliQ — ic_leaf_chance. Viewport 48x48. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <path
+        android:pathData="M6.5,42.5 L10,38.6"
+        android:strokeColor="#3D7F22"
+        android:strokeWidth="2.6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M9,39 Q28.18,29.88 32.4,9.06 Q13.21,18.18 9,39 Z"
+        android:fillColor="#4E9A2E"
+        android:strokeColor="#3D7F22"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M9.8,32.6 Q19.55,24.99 24.58,13.69 Q14.82,21.3 9.8,32.6 Z"
+        android:fillColor="#8CCB5E"
+        android:fillAlpha="0.75" />
+    <path
+        android:pathData="M10.4,37 C16,30 22,22.4 30.4,11.6"
+        android:strokeColor="#3D7F22"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>

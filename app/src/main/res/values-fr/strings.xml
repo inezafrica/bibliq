@@ -1,0 +1,62 @@
+<resources>
+    <string name="play_level">JOUER NIVEAU %d</string>
+    <string name="next_life_in">Prochaine vie dans %s</string>
+    <string name="new_levels_on">Nouveaux niveaux %s</string>
+    <string name="finish_level_first">Termine d\'abord le niveau %d</string>
+    <string name="world_1">MONDE 1 · La Création</string>
+
+    <string name="nav_map">Carte</string>
+    <string name="nav_endless">Infini</string>
+    <string name="nav_badges">Badges</string>
+    <string name="nav_profile">Profil</string>
+
+    <string name="rank_1">Chercheur</string>
+    <string name="rank_2">Disciple</string>
+    <string name="rank_3">Scribe</string>
+    <string name="rank_4">Prophète</string>
+    <string name="rank_5">Apôtre</string>
+    <string name="rank_6">Ancien</string>
+
+    <string name="level_cd_done">Niveau %1$d, %2$d étoiles</string>
+    <string name="level_cd_current">Niveau %d, actuel</string>
+    <string name="level_cd_locked">Niveau %d, verrouillé</string>
+
+    <string name="type_mcq">CHOIX MULTIPLE</string>
+    <string name="type_true_false">VRAI OU FAUX</string>
+    <string name="type_picture">IMAGE</string>
+    <string name="type_who_said">QUI L\'A DIT ?</string>
+    <string name="answer_true">Vrai</string>
+    <string name="answer_false">Faux</string>
+    <string name="well_done">Bravo !</string>
+    <string name="points_gained">+%1$d points · bonus de vitesse +%2$d</string>
+    <string name="answer_is">La réponse est %s.</string>
+    <string name="encourage_1">Tu y arriveras la prochaine fois !</string>
+    <string name="encourage_2">Presque !</string>
+    <string name="encourage_3">Continue !</string>
+    <string name="times_up">Temps écoulé !</string>
+    <string name="next">SUIVANT</string>
+    <string name="continue_button">CONTINUER</string>
+    <string name="quit_title">Quitter le niveau ?</string>
+    <string name="quit_body">Ta progression dans ce niveau sera perdue.</string>
+    <string name="quit_yes">Quitter</string>
+    <string name="quit_no">Continuer à jouer</string>
+    <string name="chances_left">Encore %d chances</string>
+    <string name="power_5050">50/50 — coûte %d Talents</string>
+    <string name="power_time">Temps supplémentaire — coûte %d Talents</string>
+    <string name="power_skip">Passer — coûte %d Talents</string>
+    <string name="power_verse">Révéler le verset — coûte %d Talents</string>
+
+    <string name="level_complete">Niveau %d terminé !</string>
+    <string name="level_failed">Niveau %d échoué</string>
+    <string name="result_correct">%1$d / %2$d bonnes réponses</string>
+    <string name="result_score">Score : %d</string>
+    <string name="result_talents">+%d Talents</string>
+    <string name="result_life_lost">Tu as perdu une vie</string>
+    <string name="next_level">NIVEAU SUIVANT</string>
+    <string name="try_again">RÉESSAYER</string>
+    <string name="back_to_map">RETOUR À LA CARTE</string>
+    <string name="out_of_lives">Plus de vies. Prochaine vie dans %s</string>
+    <string name="content_error_title">Impossible de charger tes niveaux</string>
+    <string name="content_error_body">Connecte-toi à Internet pour télécharger tes niveaux, puis réessaie.</string>
+    <string name="retry">RÉESSAYER</string>
+</resources>

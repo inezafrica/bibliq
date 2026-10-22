@@ -1,0 +1,90 @@
+// Full Catholic canon (73 books), in canonical order. Includes the
+// deuterocanonical books (Tobit, Judith, Wisdom, Sirach, Baruch, 1-2
+// Maccabees, plus the Greek additions folded into Esther/Daniel) alongside
+// the books shared with the Protestant canon. See documentation/... for the
+// "deuterocanonical as bonus world / toggle" product decision this list
+// supports -- the dropdown itself doesn't gate anything, it's just the
+// reference list for tagging a question's book.
+
+export const OLD_TESTAMENT_BOOKS = [
+  "Genesis",
+  "Exodus",
+  "Leviticus",
+  "Numbers",
+  "Deuteronomy",
+  "Joshua",
+  "Judges",
+  "Ruth",
+  "1 Samuel",
+  "2 Samuel",
+  "1 Kings",
+  "2 Kings",
+  "1 Chronicles",
+  "2 Chronicles",
+  "Ezra",
+  "Nehemiah",
+  "Tobit",
+  "Judith",
+  "Esther",
+  "1 Maccabees",
+  "2 Maccabees",
+  "Job",
+  "Psalms",
+  "Proverbs",
+  "Ecclesiastes",
+  "Song of Songs",
+  "Wisdom",
+  "Sirach",
+  "Isaiah",
+  "Jeremiah",
+  "Lamentations",
+  "Baruch",
+  "Ezekiel",
+  "Daniel",
+  "Hosea",
+  "Joel",
+  "Amos",
+  "Obadiah",
+  "Jonah",
+  "Micah",
+  "Nahum",
+  "Habakkuk",
+  "Zephaniah",
+  "Haggai",
+  "Zechariah",
+  "Malachi",
+] as const;
+
+export const NEW_TESTAMENT_BOOKS = [
+  "Matthew",
+  "Mark",
+  "Luke",
+  "John",
+  "Acts",
+  "Romans",
+  "1 Corinthians",
+  "2 Corinthians",
+  "Galatians",
+  "Ephesians",
+  "Philippians",
+  "Colossians",
+  "1 Thessalonians",
+  "2 Thessalonians",
+  "1 Timothy",
+  "2 Timothy",
+  "Titus",
+  "Philemon",
+  "Hebrews",
+  "James",
+  "1 Peter",
+  "2 Peter",
+  "1 John",
+  "2 John",
+  "3 John",
+  "Jude",
+  "Revelation",
+] as const;
+
+export const BIBLE_BOOKS = [...OLD_TESTAMENT_BOOKS, ...NEW_TESTAMENT_BOOKS] as const;
+
+export type BibleBook = (typeof BIBLE_BOOKS)[number];

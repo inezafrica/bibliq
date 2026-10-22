@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(/c/Users/chrib/AppData/Local/Programs/Python/Python312/python.exe C:/Users/chrib/AppData/Local/Temp/claude/c--Users-chrib-kotlinApp-Bible-trivial/eab01fcd-683c-4a90-a067-bd374832c55b/scratchpad/merge_spanish.py app/src/main/assets/levels/pack_001.json C:/Users/chrib/AppData/Local/Temp/claude/c--Users-chrib-kotlinApp-Bible-trivial/eab01fcd-683c-4a90-a067-bd374832c55b/scratchpad/es_content.json app/src/main/assets/levels/pack_001.json app/src/test/resources/levels/pack_001.json)",
+      "PowerShell(.\\\\gradlew.bat :app:testDebugUnitTest --console=plain 2>&1)",
+      "Bash(\"/c/Users/chrib/AppData/Local/Programs/Python/Python312/python.exe\" -c \"import json; json.load\\(open\\('app/src/main/assets/lottie/star_pop.json', encoding='utf-8'\\)\\); print\\('valid json'\\)\")",
+      "PowerShell(.\\\\gradlew.bat :app:installDebug --console=plain 2>&1)"
+    ]
+  }
+}
